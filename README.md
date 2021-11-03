@@ -8,4 +8,4 @@ The Streamlit based UI will consist of two sections- A video section and an imag
 
 The below steps are required to run the application-
 
-#Step 1
+# Step 1
