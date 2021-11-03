@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+requests
+requests_toolbelt
+shutil
+torch
+glob
+opencv-python
