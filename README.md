@@ -8,4 +8,16 @@ The Streamlit based UI will consist of two sections- A video section and an imag
 
 The below steps are required to run the application-
 
-# Step 1
+# Step 1-
+
+First Clone the repo and make note of the root/ directory where the repo is saved. This directory will also store the resulting image/video that is saved by the YoloV5 model.
+
+# Step 2-
+
+We need to change the root directory to what you are currently using. In the repository the directory in which the repo is saved is "C:/Users/BHASKAR BOSE", we need to change this.
+If you are using windows then open a terminal and write-
+'''
+powershell -Command "(gc myFile.txt) -replace 'foo', 'bar' | Out-File -encoding ASCII myFile.txt"
+
+'''
+
