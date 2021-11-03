@@ -1,0 +1,2 @@
+This Folder will contain the frames of the video that the user will upload.
+The delete_files.py will empty this folder after the task of video generation is done.
