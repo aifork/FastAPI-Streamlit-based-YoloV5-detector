@@ -1,0 +1,1 @@
+This folder will have the group of frames (in case of video) or a single image (incase the user uploads single image) along with the bounding boxes for objects.
